@@ -1,0 +1,308 @@
+{
+    "root": {
+        "data": {
+            "id": "ccg4dl3mw340",
+            "created": 1624971655800,
+            "text": "Vendas Diárias das Lojas"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ccg4e1uire00",
+                    "created": 1624971692254,
+                    "text": "Clientes",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccg4eexqh3k0",
+                            "created": 1624971720747,
+                            "text": "Volume de Compra"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4elfuqnk0",
+                            "created": 1624971734903,
+                            "text": "Número de Filhos"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4eq2k1ew0",
+                            "created": 1624971744983,
+                            "text": "Salário"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4esyke6o0",
+                            "created": 1624971751272,
+                            "text": "Idade"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4ev3aei80",
+                            "created": 1624971755911,
+                            "text": "Profissão"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4exvue340",
+                            "created": 1624971761991,
+                            "text": "Família"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4f0dau5k0",
+                            "created": 1624971767401,
+                            "text": "Frequência de Compra"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ccg4fd4sdrs0",
+                    "created": 1624971795184,
+                    "text": "Produtos"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccg4ffk8jtk0",
+                            "created": 1624971800472,
+                            "text": "Marketing"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4fl65c5k0",
+                            "created": 1624971812680,
+                            "text": "Exposição na Loja"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4fopeejc0",
+                            "created": 1624971820375,
+                            "text": "Preço"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4fq8fmkg0",
+                            "created": 1624971823703,
+                            "text": "Quantidade em Stock"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4fwgdhqg0",
+                            "created": 1624971837243,
+                            "text": "Promoção"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ccg4g0bd8e80",
+                    "created": 1624971845648,
+                    "text": "Lojas"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccg4g2cnzxk0",
+                            "created": 1624971850080,
+                            "text": "Número de Funcionários"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4g8ro8y80",
+                            "created": 1624971864048,
+                            "text": "Estoque"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4gaugo600",
+                            "created": 1624971868570,
+                            "text": "Tamanho"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4gd4755s0",
+                            "created": 1624971873512,
+                            "text": "Sortimento"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4ghodhco0",
+                            "created": 1624971883440,
+                            "text": "Competidores"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ccg4gk8rlu80",
+                    "created": 1624971889026,
+                    "text": "Temporal"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccg4glywsgg0",
+                            "created": 1624971892784,
+                            "text": "Feriados"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4gpc8zz40",
+                            "created": 1624971900121,
+                            "text": "Semana do Ano"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4grsm8z40",
+                            "created": 1624971905464,
+                            "text": "Dia"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4gt12h2w0",
+                            "created": 1624971908152,
+                            "text": "Ano"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4gy5mng00",
+                            "created": 1624971919311,
+                            "text": "Mês"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4h0a47140",
+                            "created": 1624971923936,
+                            "text": "Hora"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4h1pb6880",
+                            "created": 1624971927032,
+                            "text": "Final de Semana"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4h3v3vzc0",
+                            "created": 1624971931736,
+                            "text": "Saldão"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ccg4h90v5a80",
+                    "created": 1624971942968,
+                    "text": "Localização"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccg4hb00wl40",
+                            "created": 1624971947271,
+                            "text": "Bairro"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4hcixwig0",
+                            "created": 1624971950591,
+                            "text": "Rural"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4hfjtw1c0",
+                            "created": 1624971957175,
+                            "text": "Urbano"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4hh5457k0",
+                            "created": 1624971960639,
+                            "text": "Centro"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4hiaxau80",
+                            "created": 1624971963167,
+                            "text": "Proximidade à Escolas"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccg4hnbdm5c0",
+                            "created": 1624971974079,
+                            "text": "Proximidade à Hospitais"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
